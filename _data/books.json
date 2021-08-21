@@ -1,0 +1,146 @@
+[
+    {
+        "name" : "Atomic Habits",
+        "author" : "James clear",
+        "price" : 420,
+        "pages" : 329,
+        "language" : "English",
+        "description" : "A supremely practical and useful book. James Clear distils the most fundamental information about habit formation, so you can accomplish more by focusing on less."
+    },
+    {
+        "name" : "The Subtle Art of Not Giving a F*ck",
+        "author" : "Mark Manson",
+        "price" : 365,
+        "pages" : 239,
+        "language" : "English",
+        "description" : "For decades, we’ve been told that positive thinking is the key to a happy, rich life. “Fuck positivity,” Mark Manson says. “Let’s be honest, shit is fucked and we have to live with it.” In his wildly popular Internet blog, Manson doesn’t sugar-coat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. The Subtle Art of Not Giving a F**k is his antidote to the coddling, let’s-all-feel-good mind-set that has infected."
+    },
+    {
+        "name" : "21 Lessons for the 21st Century ",
+        "author" : "Yuval Noah Harari",
+        "price" : 384,
+        "pages" : 329,
+        "language" : "English",
+        "description" : "There is surely no one alive who is better at explaining our world than Yuval Noah Harari - he is the lecturer we all wish we’d had at university. Reading this book, I must have interrupted my partner a hundred times to pass on fascinating things I’d just read. Harari has done it again - 21 Lessons is, simply put, a crucial book. "
+    },
+    {
+        "name" : "The Sapiens",
+         "author" : "Yuval Noah Harari",
+        "price" : 550,
+        "pages" : 321,
+        "language" : "English",
+        "description" : "This is the first of its kind book which I read and let me tell you, it captivated my attention in the tantalizing details from the very beginning, when it all started. The 5 stars I present to this book (I did have a little tinkling to settle for 4, at times, for somewhere in the middle, it got a boring. But then... It was not all about that)."
+    },
+    {
+        "name" : "Homo Deus: A Brief History of Tomorrow",
+        "author" : "Yuval Noah Harari",
+        "price" : 320,
+        "pages" : 256,
+        "language" : "English",
+        "description" : "Freakingly thought provoking book!! It talks about the possibilities of how future of mankind may look like - at times this book may seem like a science fiction but Yuval Noah Harrari immediately links his ideas to the present day research progressing towards the possibilities he is talking about."
+    },
+    {
+        "name" : "The 5 AM Club",
+        "author" : "Robin Sharma",
+        "price" : 320,
+        "pages" : 256,
+        "language" : "English",
+        "description" : "A book that could change your life!!!! This is the best book i have read in my life!!!!! This is one book that could change your life forever. It could be your doorway to new realms of happiness, peace, prosperity in your life. Also please consider gifting this book to your near and dear ones (this would indirectly contribute to fighting battle against leprosy) "
+    },
+    {
+        "name" : "Who will cry when you die",
+        "author" : "Robin Sharma",
+        "price" : 320,
+        "pages" : 256,
+        "language" : "English",
+        "description" : "Do You Feel that life is slipping by so fast that you might never get the chance to live with the meaning, happiness and joy you know you deserve? If so, then this book will be the guiding light that leads you to a brilliant new way of living."
+    },
+    {
+        "name" : "The monk who sold his ferari",
+        "author" : "Robin Sharma",
+        "price" : 320,
+        "pages" : 256,
+        "language" : "English",
+        "description" : "A renowned inspirational fiction, The Monk Who Sold His Ferrari is a revealing story that offers the readers a simple yet profound way to live life. The plot of this story revolves around Julian Mantle, a lawyer who has made his fortune and name in the profession. A sudden heart-attack creates havoc in the successful lawyer’s life. Jolted by the sudden onset of the illness, his practice comes to a standstill. He ponders over material success being worth it all, renounces all of it and leaves for India."
+    },
+    {
+        "name" : "The Alchemist",
+        "author" : "Paulo Coelho",
+        "price" : 320,
+        "pages" : 256,
+        "language" : "English",
+        "description" : "Paulo’s writing is a visionary blend of spirituality, magical realism and folklore. His stories are simple and direct, yet they have the power to change lives and inspire you with the courage to follow your dreams. His fifth novel, The Fifth Mountain, is set in the 9th century BC. Elijah is a young man struggling to maintain his sanity amidst a chaotic world of tyranny and war. Forced to flee his home, then choose between his newfound love and security and his overwhelming sense of duty, this is a moving and inspiring story about how we can transcend even the most terrible ordeals by keeping faith and love alive."
+    },
+    {
+        "name" : "Think and Grow Rich",
+        "author" : "Napolean Hill",
+        "price" : 320,
+        "pages" : 256,
+        "language" : "English",
+        "description" : "Think and Grow Rich has earned itself The reputation of being considered a textbook for actionable techniques that can help one get better at doing anything, not just by rich and wealthy, but also by people doing wonderful work in their respective fields. There are hundreds and thousands of successful people in the world who can vouch for the contents of this book. At the time of authors death, about 20 million copies had already been sold. Numerous revisions have been made in the book, from time to time, to make the book more readable and comprehensible to the readers. "
+    },
+    {
+        "name" : "How to own your mind",
+        "author" : "Napolean Hill",
+        "price" : 320,
+        "pages" : 256,
+        "language" : "English",
+        "description" : "A master class on how to think for success from the motivational hero of the twentieth century and author of Think and Grow Rich. Knowledge is NOT power. Only APPLIED knowledge is power. This book teaches you how to use what you know and how to know what's worth knowing."
+    },
+    {
+        "name" : "Zero to One",
+        "author" : "Peter Thiel",
+        "price" : 425,
+        "pages" : 143,
+        "language" : "English",
+        "description" : "The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. If you are copying these guys, you aren’t learning from them. It’s easier to copy a model than to make something new: doing what we already know how to do takes the world from 1 to n, adding more of something familiar. Every new creation goes from 0 to 1. This book is about how to get there."
+    },
+    {
+        "name" : "Six Easy Pieces",
+        "author" : "Richard Feynman",
+        "price" : 425,
+        "pages" : 143,
+        "language" : "English",
+        "description" : "In these classic lessons, Feynman introduces the general reader to the following topics: atoms, basic physics, energy, gravitation, quantum mechanics, and the relationship of physics to other topics. With his dazzling and inimitable wit, Feynman presents each discussion with a minimum of jargon. Filled with wonderful examples and clever illustrations, Six Easy Pieces is the ideal introduction to the fundamentals of physics by one of the most admired and accessible physicists of modern times."
+    },
+    {
+        "name" : "Autobiography of a Yogi",
+        "author" : "Paramahansa Yogananda",
+        "price" : 165,
+        "pages" : 276,
+        "language" : "English",
+        "description" : "Autobiography of a Yogi is one of the famous Spiritual Book of the Twentieth Century which is written by Paramahansa Yogananda. In this book he explained memorable findings of the world of saints and yogis and also explained science and miracles, death and resurgence. The book containing extensive content about all of his desires. Moreover, the book has several high definition pictures. It is a spiritual treasury that will make you understand the meaning of life. Hence this book is real treasure for people who are on a spiritual quest."
+    },
+    {
+        "name" : "My Inventions",
+        "author" : "Nikola Tesla",
+        "price" : 165,
+        "pages" : 276,
+        "language" : "English",
+        "description" : "One of the world’s most famous inventors and greatest minds, Nikola Tesla findings are the foundation of much of our modern-day technology and are indispensable to our understanding of electricity. Here is his story, in his own words. My inventions, tesla’s autobiography, was first published as a six-part series in the electrical examiner. It is a record of his fascinating life, from his humble beginnings in Croatia, his collaboration with Thomas Edison, to his revolutionary breakthroughs and Discoveries that changed the world."
+    },
+    {
+        "name" : "illusions",
+        "author" : "Richard Bach",
+        "price" : 165,
+        "pages" : 376,
+        "language" : "English",
+        "description" : "In the cloud-washed airspace between the cornfields of Illinois and blue infinity, a man puts his faith in the propeller of his biplane. For disillusioned writer and itinerant barnstormer Richard Bach, belief is as real as a full tank of gas and sparks firing in the cylinders . . . until he meets Donald Shimoda—former mechanic and self-described messiah who can make wrenches fly and Richard's imagination soar"
+    },
+    {
+        "name" : "The Promise Land",
+        "author" : "Barak Obama",
+        "price" : 165,
+        "pages" : 376,
+        "language" : "English",
+        "description" : "About the Author Barack Obama was the 44th president of the United States, elected in November 2008 and holding office for two terms. He is the author of three New York Times bestselling books, Dreams from My Father, The Audacity of Hope, and A Promised Land, and is the recipient of the 2009 Nobel Peace Prize. He lives in Washington, D.C., with his wife, Michelle. They have two daughters, Malia and Sasha."
+    },
+    {
+        "name" : "Dreams From My Father",
+        "author" : "Barak Obama",
+        "price" : 165,
+        "pages" : 376,
+        "language" : "English",
+        "description" : "The son of a black African father and a white American mother, President Obama recounts an emotional odyssey. He retraces the migration of his mother's family from Kansas to Hawaii, then to his childhood home in Indonesia. Finally he travels to Kenya, where he confronts the bitter truth of his father's life and at last reconciles his divided inheritance."
+    }
+]

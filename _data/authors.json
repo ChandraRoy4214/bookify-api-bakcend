@@ -1,0 +1,118 @@
+[
+
+    {
+        "name" : "James Clear",
+        "age" : 32,
+        "email" : "jamesclear@gmail.com",
+        "website" : "jamesclear.com",
+        "books" : [],
+        "description" :"James Clear is an author and speaker focused on habits, decision-making, and continuous improvement. His work has appeared in the New York Times, Entrepreneur, Time, and on CBS This Morning. His website receives millions of visitors each month and hundreds of thousands subscribe to his popular email newsletter at jamesclear.com. He is a regular speaker at Fortune 500 companies and his work is used by teams in the NFL, NBA, and MLB. Through his online course, The Habits Academy, Clear has taught more than 10,000 leaders, managers, coaches, and teachers. The Habits Academy is the premier training platform for individuals and organizations that are interested in building better habits in life and work. You can learn more at habitsacademy.com.",
+
+        "genre" : [ "self-help"]
+    },
+
+    {
+        "name" : "Robin Sharma",
+        "age" : 42,
+        "email" : "robinsharma@email.com",
+        "website" : "robinsharma.com",
+        "books" : [],
+        "description" : "Robin Sharma is one of the world's premier speakers on Leadership and Personal Mastery, recently named one of the World's Top Leadership Gurus. As a presenter, Sharma has the rare ability to electrify an audience yet deliver uncommonly original and useful insights that lead to individuals doing their best work, teams providing superb results and organizations becoming unbeatable. Sharma's books such as The Leader Who Had No Title have topped bestseller lists internationally and his social media posts reach over six hundred million people a year, making him a true global phenomenon for helping people do brilliant work, thrive amid change and realize their highest leadership capacities within the organization so that personal responsibility, productivity, ingenuity and mastery soars.",
+        "genre" : ["self-help"]
+    },
+    {
+        "name" : "Yuval Noah Harari",
+        "age" : 44,
+        "email" : "ynharari@email.com",
+        "website" : "ynharari.com",
+        "books" : [],
+
+        "description" : "Prof. Yuval Noah Harari has a PhD in History from the University of Oxford and lectures at the Hebrew University of Jerusalem, specializing in world history. His books have been translated into 60 languages, with over 30 million copies sold worldwide. 'Sapiens: A Brief History of Humankind' (2014) looked deep into our past, 'Homo Deus: A Brief History of Tomorrow' (2016) considered far-future scenarios, and '21 Lessons for the 21st Century' (2018) zoomed in on the biggest questions of the present moment.",
+        "genre" : ["history", "science"]
+    },
+
+    {
+        "name" : "Paulo Coelho",
+        "age" : 72,
+        "email" : "paulocoelho@email.com",
+        "website" : "paulocoelho.com",
+         "books" : [],
+
+        "description" : "Paulo Coelho is the author of &quot;The Alchemist&quot;, he was born in 1947 in the city of Rio de Janeiro, Brazil. Being the author of 30 books that have sold over 320 million copies in 170 countries, he has become one of the most widely read authors in the world today. Paulo Coelho has been a United Nations Messenger of Peace since 2007 and this has allowed him to continue to promote intercultural dialogue and to focus on the needs of children. He is a member of the Brazilian Academy of Letters and the recipient of over 115 awards and honours, including the Hans Christian Andersen Award, the Grinzane Cavour Book Award and the Chevalier de l’Ordre National de la L&eacute;gion d’Honneur, to name a few.",
+        "genre" : ["history", "science"]
+    },
+
+    {
+        "name" : "Paramahansa Yogananda",
+        "website" : "paramahamsa.com",
+        "books" : [],
+        "description" : "1893 – 1952 Hailed as the “father of Yoga in the West,” Paramahansa Yogananda is regarded as one of the great spiritual figures of our time. Born in northern India, he came to the United States in 1920, where he founded Self-Realization Fellowship, to disseminate his writings and teachings worldwide. Through his best-selling classic, Autobiography of a Yogi, and his numerous other books, he has introduced millions throughout the world to the spiritual principles of yoga meditation and the universal truths underlying all world religions.",
+        "genre" : ["history", "spirutual"]
+    },
+
+    {
+        "name" : "Peter Thiel",
+        "age" : 72,
+        "email" : "petertheil@email.com",
+        "website" : "petertheil.com",
+        "books" : [],
+        "description" : "Peter Thiel is an entrepreneur and investor. He started PayPal in 1998, led it as CEO, and took it public in 2002, defining a new era of fast and secure online commerce. In 2004 he made the first outside investment in Facebook, where he serves as a director. The same year he launched Palantir Technologies, a software company that harnesses computers to empower human analysts in fields like national security and global finance. He has provided early funding for LinkedIn, Yelp, and dozens of successful technology startups, many run by former colleagues who have been dubbed the “PayPal Mafia.” He is a partner at Founders Fund, a Silicon Valley venture capital firm that has funded companies like SpaceX and Airbnb. He started the Thiel Fellowship, which ignited a national debate by encouraging young people to put learning before schooling, and he leads the Thiel Foundation, works to advance technological progress and long-term thinking about the future.",
+
+        "genre" : ["startups"]
+    },
+
+    {
+        "name" : "Napoleon Hill",
+        "email" : "napoleanhill@email.com",
+        "website" : "naphill.com",
+         "books" : [],
+
+        "description" : "Napoleon Hill was born in Wise County, Virginia. He began his writing career at age 13 as a mountain reporter for small town newspapers and went on to become America's most beloved motivational author. His work stands as a monument to individual achievement and is the cornerstone of modern motivation. His most famous work, Think and Grow Rich, is one of the best-selling books of all time. Hill established the Foundation as a nonprofit educational institution whose mission is to perpetuate his philosophy of leadership, self-motivation, and individual achievement.",
+        "genre" : ["self-help"]
+    },
+
+    {
+        "name" : "Mark Manson",
+        "age" : 35,
+        "email" : "markmanson@email.com",
+        "website" : "markmanson.com",
+         "books" : [],
+
+        "description" : "Mark Manson is the #1 New York Times Bestselling author of Everything is F*cked: A Book About Hope and The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life, the mega-bestseller that reached #1 in fourteen different countries. Mark’s books have been translated into more than 50 languages and have sold over 12 million copies worldwide. Mark runs one of the largest personal growth websites in the world, MarkManson.net, a blog with more than two million monthly readers and half a million subscribers. His writing is often described as ‘self-help for people who hate self-help’ — a no-BS brand of life advice and cultural commentary that has struck a chord with people around the globe. His writing has appeared in The New York Times, Wall Street Journal, TIME Magazine, Forbes, Vice, CNN, and Vox, among many others. He currently lives in New York City.",
+
+        "genre" : ["self-help"]
+    },
+
+    {
+        "name" : "Barak Obama",
+        "age" : 65,
+        "email" : "barakobama@email.com",
+        "website" : "barakobama.com",
+        "books" : [],
+
+        "description" : "Barack Obama was the 44th president of the United States, elected in November 2008 and holding office for two terms. He is the author of two previous New York Times bestselling books, Dreams from My Father and The Audacity of Hope, and the recipient of the 2009 Nobel Peace Prize. He lives in Washington, D.C., with his wife, Michelle. They have two daughters, Malia and Sasha.",
+
+        "genre" : ["self-help"]
+    },
+
+    {
+        "name" : "Nikola Tesla",
+         "email" : "ntesla@email.com",
+        "books" : [],
+
+        "description" : "Tesla was born in Croatia on a summer night in 1856, during what he claimed was a lightning storm – which led the midwife to say, “He will be a child of the storm,” and his mother to counter prophetically, “No, of the light.”* As a student, Tesla displayed such remarkable abilities to calculate mathematical problems that teachers accused him of cheating. During his teen years, he fell seriously ill, recovering once his father abandoned his demand that Nikola become a priest and agreed he could attend engineering school instead.Tesla then developed a relationship with two businessmen that led to the founding of Tesla Electric Light and Manufacturing. He filed a number of electrical patents, which he assigned to the company. When his partners decided that they wanted to focus strictly on supplying electricity, they took the company’s intellectual property and founded another firm, leaving Tesla with nothing.",
+
+        "genre" : ["science"]
+    },
+
+    {
+        "name" : "Richard P. Feynman",
+        "email" : "rfeynman@email.com",
+        "website" : "rfeynman.com",
+         "books" : [],
+
+        "description" : "Richard P. Feynman was born in 1918 and grew up in Far Rockaway, New York. At the age of seventeen he entered MIT and in 1939 went to Princeton, then to Los Alamos, where he joined in the effort to build the atomic bomb. Following World War II he joined the physics faculty at Cornell, then went on to Caltech in 1951, where he taught until his death in 1988. He shared the Nobel Prize for physics in 1965, and served with distinction on the Shuttle Commission in 1986. A commemorative stamp in his name was issued by the U.S. Postal Service in 2005. Feynman remade quantum electrodynamics—the theory of the interaction between light and matter—and thus altered the way science understands the nature of waves and particles. He was co-awarded the Nobel Prize for Physics in 1965 for this work, which tied together in an experimentally perfect package all the varied phenomena at work in light, radio, electricity, and magnetism. The other cowinners of the Nobel Prize, Julian S. Schwinger of the United States and Tomonaga Shin’ichirō of Japan, had independently created equivalent theories, but it was Feynman’s that proved the most original and far-reaching. The problem-solving tools that he invented—including pictorial representations of particle interactions known as Feynman diagrams—permeated many areas of theoretical physics in the second half of the 20th century.",
+
+        "genre" : ["science"]
+    }
+]
